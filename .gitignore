@@ -1,0 +1,6 @@
+build/
+dist/
+yatank_sputnik.egg-info/
+*.pyc
+test_version.log
+deploy.sh

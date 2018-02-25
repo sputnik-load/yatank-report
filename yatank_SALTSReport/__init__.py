@@ -1,0 +1,1 @@
+from plugin import SALTSReportPlugin as yatank_SALTSReportPlugin
