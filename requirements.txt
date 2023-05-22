@@ -1,5 +1,5 @@
 slumber==0.7.1
-requests==2.20.0
+requests==2.31.0
 pytz==2016.4
 validators==0.10.1
 xmltodict==0.10.1
